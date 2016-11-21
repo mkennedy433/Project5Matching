@@ -1,0 +1,27 @@
+div {
+    position: absolute;
+    width:500px;
+    height:500px
+}
+
+h1 {
+    margin-top: 1px;
+}
+
+p {
+    margin-top: 1px;
+}
+
+.hr {
+    border-image: url(image/color.gif) 30 round;
+}
+
+.colorchange {
+    background: url(image/color.gif) ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.tumulty {
+    width: 4em;
+    height: 6em;
+}
