@@ -12,16 +12,24 @@ p {
     margin-top: 1px;
 }
 
-.hr {
-    border-image: url(image/color.gif) 30 round;
-}
-
 .colorchange {
     background: url(image/color.gif) ;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-.tumulty {
-    width: 4em;
-    height: 6em;
+img {
+    position: absolute;
+    height: 90px;
+    width: 70px;
+}
+
+div {
+    position: absolute;
+    width:500px;
+    height:500px
+}
+#rightSide {
+    border-left: 3px solid white;
+    margin-left: 710px;
+    border-image: url(image/color.gif) 25 30 10 20 repeat;
 }
