@@ -13,7 +13,7 @@ p {
 }
 
 .colorchange {
-    background: url(color.gif) ;
+    background: url(Project5Matching/color.gif) ;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -31,5 +31,5 @@ div {
 #rightSide {
     border-left: 3px solid white;
     margin-left: 710px;
-    border-image: url(color.gif) 25 30 10 20 repeat;
+    border-image: url(Project5Matching/color.gif) 25 30 10 20 repeat;
 }
